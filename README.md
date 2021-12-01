@@ -5,7 +5,7 @@
 
 ### 
 
-👨‍💻&nbsp;I'm currently working as Squad Lead at [RankMyAPP](https://github.com/rankmyapp/)
+👨‍💻&nbsp;I'm currently working as Tech Lead at [RankMyAPP](https://github.com/rankmyapp/)
 
 💁‍♂️&nbsp;My pronouns are  **he** / **him** / **his**
 
