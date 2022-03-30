@@ -5,11 +5,11 @@
 
 ### 
 
-👨‍💻&nbsp;I'm currently working as Tech Lead at [RankMyAPP](https://github.com/rankmyapp/)
+👨‍💻&nbsp;I'm currently working as Development Supervisor at [RankMyAPP](https://github.com/rankmyapp/)
 
 💁‍♂️&nbsp;My pronouns are  **he** / **him** / **his**
 
-🧐&nbsp;Ask me about APIs, Typescript, cats, Red Dead Redemption and baking delicious cakes
+🧐&nbsp;Ask me about Cats, APIs, Discord bots, Typescript, Red Dead Redemption II and Baking delicious cakes
 
 🤪&nbsp;Fun fact: Ironically, I hate spending time on the computer
 
@@ -25,6 +25,7 @@
 ### Languages
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
