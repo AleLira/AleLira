@@ -9,7 +9,7 @@
 
 💁‍♂️&nbsp;My pronouns are  **he** / **him** / **his**
 
-🧐&nbsp;Ask me about Cats, APIs, Discord bots, Typescript, Red Dead Redemption II and Baking delicious cakes
+🧐&nbsp;Ask me about Cats, back-end solutions, Discord bots, Dishonored and Baking delicious cakes
 
 🤪&nbsp;Fun fact: Ironically, I hate spending time on the computer
 
