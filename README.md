@@ -5,7 +5,7 @@
 
 ### 
 
-👨‍💻&nbsp;I'm currently working as Development Supervisor at [RankMyAPP](https://github.com/rankmyapp/)
+👨‍💻&nbsp;I'm currently working as Senior Software Engineer at [ISA Lab](https://br.linkedin.com/company/isalab)
 
 💁‍♂️&nbsp;My pronouns are  **he** / **him** / **his**
 
