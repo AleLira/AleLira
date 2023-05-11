@@ -5,9 +5,9 @@
 
 ### 
 
-👨‍💻&nbsp;I'm currently working as Senior Software Engineer at [ISA Lab](https://br.linkedin.com/company/isalab)
+👨‍💻&nbsp;I'm currently working as Senior Software Engineer at [ISA](https://www.linkedin.com/company/isalab)
 
-💁‍♂️&nbsp;My pronouns are  **he** / **him** / **his**
+💁‍♂️&nbsp;My pronouns are  **he** / **him**
 
 🧐&nbsp;Ask me about Cats, back-end solutions, Discord bots, Dishonored and Baking delicious cakes
 
@@ -15,7 +15,7 @@
 
 ## Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsanderlira/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@alexsander.ml)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@alexsanderlira.dev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/AlezinLira/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alezinlira)
 
@@ -31,11 +31,12 @@
 ![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Frameworks and Libs
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
