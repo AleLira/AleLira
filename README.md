@@ -60,7 +60,3 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-## Github Stats
-
-<p><img height="150px" src="https://github-readme-stats.vercel.app/api?username=AleLira&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=24&theme=tokyonight&hide=prs,issues,contribs"/> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleLira&hide=html&hide_border=true&card_width=320&layout=compact&langs_count=7&theme=tokyonight"/></p>
